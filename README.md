@@ -11,14 +11,14 @@ Usage of Jamer-Spammer for attacking targets without prior mutual consent is ill
 ### Usage:
 ```
 Linux:
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/Jamer05/Jamer-Spammer
 pip install pyautogui
 cd Jamer-Spammer
 python3 Jamer-Spammer.py
 
 Windows
 
-git clone https://github.com/thelinuxchoice/shellphish
+git clone https://github.com/Jamer05/Jamer-Spammer
 pip install pyautogui
 cd Jamer-Spammer
 python Jamer-Spammer.py
