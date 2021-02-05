@@ -14,14 +14,14 @@ Linux:
 git clone https://github.com/thelinuxchoice/shellphish
 pip install pyautogui
 cd Jamer-Spammer
-python3 spam.py
+python3 Jamer-Spammer.py
 
 Windows
 
 git clone https://github.com/thelinuxchoice/shellphish
 pip install pyautogui
 cd Jamer-Spammer
-python spam.py
+python Jamer-Spammer.py
 
 ```
 
