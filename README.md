@@ -10,10 +10,19 @@ Usage of Jamer-Spammer for attacking targets without prior mutual consent is ill
 
 ### Usage:
 ```
+Linux:
+git clone https://github.com/thelinuxchoice/shellphish
+pip install pyautogui
+cd Jamer-Spammer
+python3 spam.py
+
+Windows
+
 git clone https://github.com/thelinuxchoice/shellphish
 pip install pyautogui
 cd Jamer-Spammer
 python spam.py
+
 ```
 
 ### Donate!
